@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pmm",
+  "name": "mod 101",
+  "description": "my first mod.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Playnion"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
